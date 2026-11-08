@@ -5,7 +5,7 @@
   /* ------------------------------------------------------------
      SETTINGS — change these in one place
      ------------------------------------------------------------ */
-  var GITHUB_URL = '';            // e.g. 'https://github.com/your-username' — leave '' to hide GitHub links
+  var GITHUB_URL = 'https://github.com/ujjawal16';            // e.g. 'https://github.com/your-username' — leave '' to hide GitHub links
   var EMAIL = 'ujjawal.golani@gmail.com';
 
   document.documentElement.classList.add('js');
